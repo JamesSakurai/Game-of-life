@@ -1,5 +1,5 @@
 body {
-  background-image: url(http://subtlepatterns2015.subtlepatterns.netdna-cdn.com/patterns/squares.png)
+  background-image: url(http://getwallpapers.com/wallpaper/full/3/a/9/368244.jpg)
 }
 
 .box {
@@ -16,11 +16,11 @@ body {
 }
 
 .on {
-  background-color: green;
+  background-color: blue;
 }
 
 .box:hover {
-  background: #00CCFF;
+  background: red;
 }
 
 .center {
